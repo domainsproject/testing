@@ -1,0 +1,15 @@
+{
+    "description": "A website for my server",
+    "domain": "owns.it.com",
+    "subdomain": "bobby",
+    "owner": {
+        "repo": "https://github.com/bobby1343",
+        "email": "bobbylashley252@gmail.com"
+    },
+    "record": {
+        "A": [
+            "192.168.0.1"
+        ]
+    },
+    "proxied": true
+}
