@@ -1,0 +1,16 @@
+{
+    "description": "Souvikarjun",
+    "domain": "owns.it.com",
+    "subdomain": "souvikarjun",
+    
+    "owner": {
+        "repo": "https://github.com/Souvikarjun",
+        "email": "souvikarjundeb@gmail.com"
+    },
+    
+    "record": {
+        "CNAME": "souvikarjun.vercel.app"
+    },
+    
+    "proxied": false
+}
