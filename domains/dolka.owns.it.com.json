@@ -1,0 +1,13 @@
+{
+    "description": "ea0hw33",
+    "domain": "owns.it.com",
+    "subdomain": "dolka",
+    "owner": {
+        "repo": "https://github.com/ea0hw33",
+        "email": "ea0hw33@gmail.com"
+    },
+    "record": {
+        "CNAME": "cname.vercel-dns.com"
+    },
+    "proxied": false
+}
