@@ -1,0 +1,16 @@
+{
+  "description": "Reasonable Titania",
+  "domain": "owns.it.com",
+  "subdomain": "reasonable-titania",
+
+  "owner": {
+    "username": "denegny",
+    "email": "0teq9o69@duck.com"
+  },
+
+  "record": {
+    "AAAA": "2a03:6f01:1:2::6da8"
+  },
+
+  "proxied": false
+}
