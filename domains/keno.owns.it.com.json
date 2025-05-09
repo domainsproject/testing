@@ -8,7 +8,10 @@
     },
 
     "record": {
-        "CNAME": "gentle-kitsune-e9d149.netlify.app"
+        "CNAME": "gentle-kitsune-e9d149.netlify.app",
+        "TXT": {
+            "netlify-challenge": "-LG3MjcYEc4i4zcgdk4eI"
+        }
     },
 
     "proxied": false
