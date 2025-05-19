@@ -1,0 +1,15 @@
+{
+	"description": "Girija Ray",
+	"domain": "owns.it.com",
+	"subdomain": "girijaray",
+
+	"owner": {
+		"repo": "https://github.com/Girijaray07/Girijaray07",
+		"email": "girijaray64@gmail.com"
+	},
+
+	"record": {
+		"CNAME": "girijaray07.github.io/"
+	},
+	"proxied": false
+}
